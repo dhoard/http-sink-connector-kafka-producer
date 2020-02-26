@@ -1,0 +1,9 @@
+# ignore these files and don't check them in
+#
+.DS_store
+**/.DS_store
+**/target
+**/*.iml
+**/.idea
+**/catalina.base_IS_UNDEFINED
+**/output
